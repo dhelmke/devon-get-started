@@ -1,0 +1,34 @@
+// Please include this preamble in every page!
+:toc: macro
+toc::[]
+:idprefix:
+:idseparator: -
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
+= Home
+// The '=' denotes the document title. It should match the filename and must not be used for headings!
+// For more information visit: https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/
+
+== Overview
+link:overview.asciidoc[Here] you can find short overview of the information provided in this repository.
+
+== Introduction
+If don't quite know what devon is all about yet, you can find a short introduction to the framework, its core ideas and the software stack behind it link:introduction.asciidoc[here].
+
+== IDE Setup
+If you want to work with devon, you should start by setting up a link:ide-setup.asciidoc[devon IDE / environment].
+
+== JumpTheQueue Tutorial
+link:jumpthequeue-design.asciidoc[JumpTheQueue] is a small devon application, which you can recreate yourself by following a step-by-step tutorial. This will teach you more about the devon components, layers and workflow.
+
+== MyThaiStar setup
+link:mythaistar-setup.asciidoc[MyThaiStar] is a more complex sample app, that demonstrates the full capabilities of the devon stack and framework.
+
+== Further Information
+link:further-information.asciidoc[Here] you can find links to advanced devon topics and other useful resources.
