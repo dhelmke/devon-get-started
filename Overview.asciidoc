@@ -25,7 +25,7 @@ TIP: You do not need to follow the links. They are just here for the overview, s
 
 . The http://de-mucevolve02/files/devonfw/current/[devon-guide] as pdf (>900 pages). You can get it from the homepage as well. In the next chapter you will just read the introduction to devon from this guide. It exists as a repository as well.
 
-. The second collection of GitHub repositories called link:https://github.com/devonfw-forge[devon-forge]. It is a repository where new things are developed. You will not need it for these tutorial.
+. The second collection of GitHub repositories called link:https://github.com/devonfw-forge[devon-forge]. It is a repository where new features are developed. You will not need it for these tutorial.
 
 link:Home.asciidoc[**Home**]
 
