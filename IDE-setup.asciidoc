@@ -14,3 +14,5 @@ endif::[]
 = IDE-setup
 
 You can setup the ide like described link:https://github.com/devonfw/ide/blob/master/documentation/setup.asciidoc[here]
+
+link:Home.asciidoc[**Home**]
