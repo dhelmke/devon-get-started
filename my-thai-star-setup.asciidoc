@@ -60,4 +60,4 @@ image::images/devonfw-ide-setup-run.png[width="813", high="390", align="center"]
 + 
 . Once started, the sample application runs on http://localhost:4200/restaurant[], login with waiter/waiter and have a look at the services list provided.
 
-link:Home.asciidoc[**Home**]
+link:home.asciidoc[**Home**]
