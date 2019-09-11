@@ -13,7 +13,7 @@ endif::[]
 
 = IDE-setup
 
-Two links how tu setup and use the IDE.
+Two links how to setup and use the IDE.
 
 == Setup
 
