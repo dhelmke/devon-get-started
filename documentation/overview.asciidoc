@@ -19,7 +19,7 @@ There are four main sources of information for devon.
 
 TIP: You do not need to follow the links. They are just here for the overview, so you know where to look for them. Just continue reading this guide. It will guide you step by step through the process of getting to know devon.
 
-. The first collection of GitHub repositories called link:https://github.com/devonfw[devonfw]. That is were most information for this tutorial comes from. Here you will find the Ide-setup, the JumpTheQueue tutorial and the My-Thai-star setup. 
+. The first collection of GitHub repositories called link:https://github.com/devonfw[devonfw]. That is were most information for this tutorial comes from. Here you will find the Ide-setup, the JumpTheQueue tutorial and the My-Thai-Star setup. 
 
 . The devon homepage with some link:https://troom.capgemini.com/sites/vcc/devon/training_hub.aspx#video-tutorials[videos] (a bit outdated) .
 
