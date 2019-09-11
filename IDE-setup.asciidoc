@@ -30,4 +30,4 @@ If you want to have more information about e.g. use help function, go to the fol
 
 TIP: Bookmark the site with the folder dokumentation.
 
-link:home.asciidoc[**Home**]
+link:Home.asciidoc[**Home**]

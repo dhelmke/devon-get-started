@@ -26,4 +26,4 @@ You can watch these link:https://troom.capgemini.com/sites/vcc/devon/training_hu
 
 WARNING: Please remember, they are outdated and there is no longer the OASP4j part. We will explain in the next step how to setup the new ide. It is easy.
 
-link:home.asciidoc[**Home**]
+link:Home.asciidoc[**Home**]
