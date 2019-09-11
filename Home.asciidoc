@@ -16,13 +16,13 @@ endif::[]
 // For more information visit: https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/
 
 == Overview
-A short link:Overview[**Overview**] of the information sources which are there for devon.
+A short link:Overview.asciidoc[**Overview**] of the information sources which are there for devon.
 
 == Introduction
-The first link:Introduction[**Introduction**] of getting to know devon.
+The first link:Introduction.asciidoc[**Introduction**] of getting to know devon.
 
 == IDE setup
-How easy can the link:IDE-setup[**IDE setup**] be?
+How easy can the link:IDE-setup.asciidoc[**IDE setup**] be?
 
 == JumpTheQueue tutorial 
 
