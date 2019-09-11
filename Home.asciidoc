@@ -27,5 +27,6 @@ How easy can the link:IDE-setup.asciidoc[**IDE setup**] be?
 == JumpTheQueue tutorial 
 
 == My-Thai-Star setup
+link:my-thai-star-setup.asciidoc[My-Thai-Star ] is a example app.
 
 == Further information
