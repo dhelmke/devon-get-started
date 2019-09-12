@@ -13,11 +13,10 @@ endif::[]
 
 = My-Thai-Star Setup
 
-My-Thai-Star is an example application for devon. As long as the side how to setup the application ist not there, we describe here how to setup the application.
+NOTE: My-Thai-Star is an example application for devon. As long as the side how to setup the application is not there, we describe here how to setup and run the application. It is an example app developed for a fictional restaurant.
 
-We assume you have successfully completet the Ide setup.
+We assume you have successfully completed the IDE setup.
 
-+
 . In the root directory of the devon distribution, right click and select "Open Devon CMD shell here" and checkout the Git repositories you'll need into `workspaces/main` with the following commands:
 +
 [source,bash]
